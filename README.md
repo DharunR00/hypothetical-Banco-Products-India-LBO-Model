@@ -3,8 +3,8 @@ This project contains a basic Leverged Buyout (LBO) model for banco Products Ind
 built in Excel it analyzes return from a 8 year buyout using a mix of debt and equity.
 
 ## Files
--Banco_LBO_Model.xlsx-Financial model
--LBO Summary.pdf-Brief write-up
+- Banco_LBO_Model.xlsx-Financial model
+- LBO Summary.pdf-Brief write-up
 
 ## 👤 Author
 Dharun – Aspiring Financial Analyst
